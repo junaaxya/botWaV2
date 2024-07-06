@@ -1,0 +1,7 @@
+# Mengabaikan direktori node_modules
+/node_modules
+
+# Mengabaikan file mintty.exe.stackdump
+/mintty.exe.stackdump
+
+/yarn.lock
